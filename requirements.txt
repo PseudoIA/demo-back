@@ -1,0 +1,12 @@
+Flask
+Flask-CORS
+Flask-SQLAlchemy
+Flask-Migrate
+bcrypt
+python-dotenv
+sqlalchemy
+gunicorn
+bcrypt
+gunicorn
+pyodbc
+flask_jwt_extended
